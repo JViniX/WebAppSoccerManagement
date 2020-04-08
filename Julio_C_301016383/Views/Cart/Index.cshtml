@@ -1,0 +1,59 @@
+﻿@model Cart
+
+<h2>Your cart</h2>
+<div id="container">
+    <div id="conteiner" class="lists">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+
+                    <th>Stadium</th>
+                    <th>Clubs</th>
+                    <th>Date and Time</th>
+                    <th>Quantity</th>
+                    <th>Price</th>
+                    <th>Subtotal</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var line in Model.Lines)
+                {
+                <tr>
+
+                    <td>@line.Match.Stadium</td>
+                    <td style="width:150px;" align="center">@line.Match.Club1Name VS @line.Match.Club2Name </td>
+                    <td>@line.Match.MatchDateAndTime.ToLocalTime()</td>
+                    <td align="center">@line.Quantity</td>
+                    <td>@line.Match.Price.ToString("c")</td>
+                    <td>
+                        @((line.Quantity * line.Match.Price).ToString("c"))
+                    </td>
+                    <td class="text-center">
+                        <a class="btn" asp-action="RemoveFromCart" asp-controller="Cart"
+                           asp-route-matchId="@line.Match.MatchID">Remove</a>
+                    </td>
+                </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="3" class="text-right">Total:</td>
+                    <td class="text-right">
+                        @Model.ComputeTotalValue().ToString("c")
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+
+        <div class="text-center">
+            @if (@ViewBag.returnUrl != null)
+            {
+                <a class="btn btn-primary" href="@ViewBag.returnUrl">Continue shopping</a>
+            }
+            @if (Model.Lines.Count() > 0)
+            {
+                <a class="btn btn-primary" asp-action="Checkout" asp-controller="Order">Checkout</a>
+            }
+        </div>
+    </div>
+</div>

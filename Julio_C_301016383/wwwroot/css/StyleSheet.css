@@ -1,0 +1,139 @@
+﻿body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+}
+
+h1 {
+    color: #202329;
+    
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 45px;
+    
+}
+
+h2 {
+    color: #202329;
+    
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 35px;
+  
+}
+
+p {    
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-bottom: 10px;
+    max-width: 500px;
+}
+
+a {
+    color:white;
+}
+
+    a:hover {
+        color:whitesmoke;
+    }
+
+
+.btn {
+    background: #1a9c79;
+    background-image: linear-gradient(to bottom, #1a9c79, #147062);
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 14px;
+    border-radius: 3px;
+    padding: 5px 8px 5px 8px;
+    text-decoration: none;
+}
+
+    .btn:hover {
+        background: #54bfad;        
+        background-image: linear-gradient(to bottom, #54bfad, #1d852f);
+        text-decoration: none;
+    }
+
+.autoHeight{
+    height:auto
+}
+
+.blank {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+    .blank:hover {
+        text-decoration: none;
+    }
+
+conteiner {
+    background-color: whitesmoke;
+    width: auto;
+    align-items: center;
+    margin: 2px auto 2px auto;
+    
+}
+
+    conteiner .lists {
+        font-size: 15px;
+        font-weight: 50;
+        align-items: center;
+        font-size: 15px;
+    }
+
+    container .forms {
+        font-size: 15px;
+        font-size: 15px;
+        /*font-weight: 50;*/
+        margin-left: 5px; 
+        align-items: center;
+    }
+
+ .alert alert-success {
+    font-size: 15px;
+    font-size: 15px;
+    /*font-weight: 50;*/
+    margin-left: 5px;
+    align-items: center;
+    color: darkgreen;
+    background-color: cadetblue;
+}
+
+.field-validation-error {
+    color: #f00;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+.input-validation-error {
+    border: 1px solid #f00;
+    background-color: #fee;
+}
+
+.validation-summary-errors {
+    font-weight: bold;
+    color: #f00;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+#tournament_table {
+    text-align: center;
+}
+
+#name {
+    width: 500px;
+}
+
+#btn_middle {
+    margin: 30px auto;
+    display: table;
+}

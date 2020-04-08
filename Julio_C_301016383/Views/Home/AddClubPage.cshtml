@@ -1,0 +1,43 @@
+﻿@model Club
+
+@{
+    ViewData["Title"] = "AddClubPage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Club Page</h1>
+<div class="panel panel-success">
+    <div class="panel-heading text-center">
+        <p>Insert all data and press Save.</p>
+    </div>
+    <div class="forms">
+        <form asp-action="AddClubPage" method="post">
+            <div asp-validation-summary="All"></div>
+            <input type="hidden" asp-for="ClubID" />
+            <table>
+                <tr>
+                    <td><label asp-for="Name">Name:</label></td>
+                    <td><input class="form-control" asp-for="Name" /></td>
+                </tr>
+                <tr>
+                    <td><label asp-for="Address">Address:</label></td>
+                    <td><input class="form-control" asp-for="Address" /></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <button class="btn btn-primary" type="submit">
+                            Save
+                        </button>
+
+                        <button class="btn" asp-action="Index">
+                            Cancel
+                        </button>
+                    </td>
+                </tr>
+            </table>
+
+        </form>
+    </div>
+</div>
+

@@ -1,0 +1,78 @@
+﻿@model IEnumerable<Match>
+
+<div>
+    <table id="tournament_table">
+        <thead>
+            <tr>
+                <th>Match ID</th>
+                <th>Name</th>
+                <th>Clubs</th>
+                <th>Schedules</th>
+                <th>Stadium</th>
+                <th>Score</th>
+                <th>Status</th>
+                <th class="text-center">Actions</th>
+            </tr>
+        </thead>
+        <tbody>            
+            @foreach (Match m in Model)
+            {
+            <tr style="height:auto">
+                <td>@m.MatchID</td>
+                <td style="width:120px;">@m.Name</td>
+                <td style="width:150px;">
+                    Club @m.ClubID1 / @m.Club1Name
+                    @if (m.ClubID2 != 0)
+                    {
+                        @:<b>vs</b> Club @m.ClubID2 / @m.Club2Name
+                    }
+                </td>
+                <td>@m.MatchDateAndTime</td>
+                <td style="width:80px;">@m.Stadium</td>
+
+                <td>
+                    @if (m.ClubID2 != 0)
+                    {
+                        @m.Club1Score @:: @m.Club2Score
+                    }
+                </td>
+                <td style="width:100px;">
+                    @if (m.IsFinished == true && m.ClubID2 != 0)
+                    {
+                        @:Finished
+                    }
+                    else if (m.ClubID2 == 0 && m.Name != "Round of 1")
+                    {
+                        @:Drew a bye
+                    }
+                    else if (m.Name == "Round of 1")
+                    {
+                        @:Final
+                    }
+                    else
+                    {
+                        @:Stand by
+                    }
+                </td>
+
+                @if (User.IsInRole("Admins") && @ViewBag.fromTicekt != "fromTicket")
+                {
+                    <td>
+                        <a asp-action="AddGoal" class="btn btn-sm btn-warning"
+                           asp-route-matchID="@m.MatchID">Record Score</a>
+                        <a asp-action="FinishMatch" class="btn btn-sm btn-warning"
+                           asp-route-matchID="@m.MatchID" asp-route-tID="@m.TournamentID">End This Match</a>
+                    </td>
+                }
+                @if (!m.IsFinished)
+                {
+                <td class="text-center">
+                    <a class="btn" asp-action="AddToCart" asp-controller="Cart"
+                       asp-route-matchId="@m.MatchID" asp-route-returnUrl="@ViewContext.HttpContext.Request.PathAndQuery()">Buy a Ticket</a>
+                </td>
+                }
+            </tr>
+            }            
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,52 @@
+﻿@model Tournament
+
+@{
+    ViewData["Title"] = "AddTournament";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Tournament Page</h1>
+<div class="panel panel-success">
+    <div class="panel-heading text-center">
+        <p>Insert all data and press Save.</p>
+    </div>
+    <div class="forms">
+        <form asp-action="AddTournament" method="post">
+            <div asp-validation-summary="All"></div>
+            <input type="hidden" asp-for="TournamentID" />
+            <table>
+                <tr>
+                    <td><label asp-for="Name">Name:</label></td>
+                    <td><input class="form-control" asp-for="Name" /></td>
+                </tr>
+                <tr>
+                    <td><label asp-for="ClubCount">A number of clubs:</label></td>
+                    <td><input class="form-control" asp-for="ClubCount" /></td>
+                </tr>
+                <tr>
+                    <td><label asp-for="Price">Price for Ticket:</label></td>
+                    <td><input class="form-control" asp-for="Price" /></td>
+                </tr>
+                <tr>
+                    <td><label asp-for="From">Duration</label></td>
+                    <td>
+                        <input class="form-control" asp-for="From" />
+                        ~
+                        <input class="form-control" asp-for="To" />
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <button class="btn btn-primary" type="submit">
+                            Save
+                        </button>
+                        <a asp-action="TournamentPage" class="btn btn-sm btn-warning">Back</a>
+                    </td>
+                </tr>
+            </table>
+
+        </form>
+    </div>
+</div>
+

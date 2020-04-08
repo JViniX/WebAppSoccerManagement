@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Club>
+
+
+<div id="container">
+    <div id="conteiner" class="lists">
+        <table>
+            <thead>
+                <tr>
+                    <th>Club ID</th>
+                    <th>Name</th>
+                    <th>Address</th>
+                    <th class="text-center">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Club clubTemp in Model)
+                {
+                <tr>
+                    <td><a asp-action="ClubDetailsPage" class="btn btn-sm btn-warning" asp-route-clubID="@clubTemp.ClubID">@clubTemp.ClubID</a></td>
+                    <td>@clubTemp.Name</td>
+                    <td>@clubTemp.Address</td>  
+                    <td class="text-center">
+                        <form asp-action="DeleteClub" method="post">
+                            <a class="btn" asp-controller="Home" asp-action="AddClubPage" asp-route-playerId=0 asp-route-clubId="@clubTemp.ClubID">Edit</a>
+                            <input type="hidden" name="ClubID" value="@clubTemp.ClubID" />
+                                <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

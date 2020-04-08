@@ -1,0 +1,81 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/css/StyleSheet.css" rel="Stylesheet" type="text/css" />
+    <table align="center">
+        <thead>
+            <tr>
+                <th>@User.Identity.Name</></th>
+                <th align="center">
+                    <img src="~/images/SCMSbyJC.png" />
+                </th>
+                <th>
+                    <div class="blank">
+                        @await Component.InvokeAsync("CartSummary")
+                    </div>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a class="btn" asp-controller="Home" asp-action="Index">Home</a></td>
+                <td align="center">
+                    <a class="btn" asp-controller="Home" asp-action="ClubPage">Clubs</a>
+                    <a class="btn" asp-controller="Home" asp-action="AddClubPage">Add Club</a>
+                    <a class="btn" asp-controller="Home" asp-action="ManagePlayersPage">Manage Players</a>
+                    <a class="btn" asp-controller="Home" asp-action="ClubDetailsPage">Club Details</a>
+                    <a class="btn" asp-controller="Tournament" asp-action="Index">Tournaments</a>
+
+                    <a class="btn" asp-controller="Ticket" asp-action="Index">Tickets</a>
+                    
+                </td>
+                <td>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <a class="btn" asp-controller="Account" asp-action="Logout">Logout</a>
+                    }
+                    else
+                    {
+                        <a class="btn" asp-controller="Account" asp-action="Login">Login</a>
+                    }
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <style>
+        .input-validation-error {
+            border-color: red;
+            background-color: #fee;
+        }
+    </style>
+</head>
+<body>
+    <table align="center">
+        <thead><tr><th></th></tr></thead>
+        <tr>
+            <td>
+                @if (TempData["message"] != null)
+                {
+                    <br>
+                    <div id="conteiner" class="alert alert-success">@TempData["message"]</div>
+                    <br>
+                }
+                @if (TempData["validation"] != null)
+                {
+                    <br>
+                    <div id="conteiner" class="alert field-validation-error">@TempData["validation"]</div>
+                    <br>
+                }
+                <div id="conteiner">
+                    @RenderBody()
+
+                </div>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

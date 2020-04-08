@@ -1,0 +1,255 @@
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.deps.json
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.runtimeconfig.json
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.runtimeconfig.dev.json
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.dll
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.csprojAssemblyReference.cache
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorAssemblyInfo.cache
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorAssemblyInfo.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.AssemblyInfoInputs.cache
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.AssemblyInfo.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorTargetAssemblyInfo.cache
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.pdb
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.dll
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.pdb
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.Views.dll
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.Views.pdb
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.TagHelpers.input.cache
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.TagHelpers.output.cache
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorCoreGenerate.cache
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorTargetAssemblyInfo.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.Views.pdb
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.csproj.CopyComplete
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\ClubPage.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddClubPage.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ClubList.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\ManagePlayersPage.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PlayersList.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\ClubDetailsPage.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Ticket\Index.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Order\Completed.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MatchesList.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\AddTournament.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\Index.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\TournamentDetails.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.deps.json
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.runtimeconfig.json
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.runtimeconfig.dev.json
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.dll
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.pdb
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.Views.dll
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.Views.pdb
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.csprojAssemblyReference.cache
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.csproj.CoreCompileInputs.cache
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorAssemblyInfo.cache
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorAssemblyInfo.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.AssemblyInfoInputs.cache
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.AssemblyInfo.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.TagHelpers.input.cache
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.TagHelpers.output.cache
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorCoreGenerate.cache
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddClubPage.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\ClubDetailsPage.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\ClubPage.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\ManagePlayersPage.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Order\Completed.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ClubList.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MatchesList.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PlayersList.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Ticket\Index.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\AddGoal.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\AddTournament.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\Index.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\TournamentDetails.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorTargetAssemblyInfo.cache
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorTargetAssemblyInfo.cs
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.Views.pdb
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.dll
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.pdb
+C:\Users\Kyungjin\Downloads\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.csproj.CopyComplete
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.deps.json
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.runtimeconfig.json
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.dll
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.pdb
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.Views.dll
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.Views.pdb
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorAssemblyInfo.cache
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorAssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.TagHelpers.input.cache
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.TagHelpers.output.cache
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorCoreGenerate.cache
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddClubPage.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\ClubDetailsPage.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\ClubPage.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\ManagePlayersPage.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Order\Completed.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ClubList.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MatchesList.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PlayersList.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Ticket\Index.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\AddGoal.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\AddTournament.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\Index.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\TournamentDetails.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorTargetAssemblyInfo.cache
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorTargetAssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.Views.pdb
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.dll
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.pdb
+C:\Users\Vinicius\Desktop\Julio_C_301016383 - Final Beta 02\Julio_C_301016383 - Final Beta 02\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.csproj.CopyComplete
+C:\Users\Vinicius\OneDrive\College\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\AddGoal.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.deps.json
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.runtimeconfig.json
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.dll
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.pdb
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.Views.dll
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.Views.pdb
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorAssemblyInfo.cache
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorAssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.TagHelpers.input.cache
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.TagHelpers.output.cache
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorCoreGenerate.cache
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddClubPage.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\ClubDetailsPage.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\ClubPage.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\ManagePlayersPage.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Order\Completed.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ClubList.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MatchesList.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PlayersList.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Ticket\Index.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\AddGoal.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\AddTournament.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\Index.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\TournamentDetails.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorTargetAssemblyInfo.cache
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorTargetAssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.Views.pdb
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.dll
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.pdb
+C:\Users\Vinicius\Desktop\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.csproj.CopyComplete
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.deps.json
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.runtimeconfig.json
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.runtimeconfig.dev.json
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.dll
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.pdb
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.Views.dll
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\bin\Debug\netcoreapp2.1\Julio_C_301016383.Views.pdb
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.csprojAssemblyReference.cache
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorAssemblyInfo.cache
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorAssemblyInfo.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.AssemblyInfoInputs.cache
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.AssemblyInfo.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.TagHelpers.input.cache
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.TagHelpers.output.cache
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorCoreGenerate.cache
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddClubPage.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\ClubDetailsPage.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\ClubPage.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\ManagePlayersPage.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Order\Completed.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ClubList.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MatchesList.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PlayersList.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Ticket\Index.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\AddGoal.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\AddTournament.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\Index.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\TournamentDetails.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorTargetAssemblyInfo.cache
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorTargetAssemblyInfo.cs
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.Views.pdb
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.dll
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.pdb
+C:\Users\Julio Vinicius\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.csproj.CopyComplete
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.csprojAssemblyReference.cache
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorAssemblyInfo.cache
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorAssemblyInfo.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.AssemblyInfoInputs.cache
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.AssemblyInfo.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.dll
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.pdb
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.TagHelpers.input.cache
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.TagHelpers.output.cache
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorCoreGenerate.cache
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddClubPage.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\ClubDetailsPage.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\ClubPage.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Home\ManagePlayersPage.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Order\Completed.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ClubList.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\MatchesList.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\PlayersList.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Ticket\Index.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\AddGoal.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\AddTournament.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\Index.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\Tournament\TournamentDetails.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorTargetAssemblyInfo.cache
+C:\Users\julio\OneDrive\College\3rd Semester\Web Application\Julio_C_301016383\Julio_C_301016383\obj\Debug\netcoreapp2.1\Julio_C_301016383.RazorTargetAssemblyInfo.cs

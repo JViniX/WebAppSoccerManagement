@@ -1,0 +1,10 @@
+﻿@model Cart
+
+<div >
+    @if (Model.Lines.Count() > 0)
+    {
+    <a class="blank" asp-controller="Cart" asp-action="Index">
+        <img src="~/images/shopping_cart2.png" title="Your cart: @Model.Lines.Sum(x => x.Quantity) item(s) @Model.ComputeTotalValue().ToString("c")" />
+    </a>
+    }    
+</div>

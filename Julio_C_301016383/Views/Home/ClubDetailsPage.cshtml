@@ -1,0 +1,33 @@
+﻿
+@model IEnumerable<Club>
+
+@{
+    ViewData["Title"] = "ClubDetailsPage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Club Details Page</h1>
+<div id="container">
+    <div id="conteiner" class="lists">
+        @foreach (Club clubTemp in Model)
+        {
+            <table>
+                <tr><th align="left"><b>Club ID:</b></th><td>@clubTemp.ClubID</td></tr>
+                <tr><th align="left"><b>Name:</b></th><td>@clubTemp.Name</td></tr>
+                <tr><th align="left"><b>Adress:</b></th><td>@clubTemp.Address</td></tr>
+            </table>
+
+            <h2>Players of this Club</h2>
+            //@foreach (var pl in clubTemp.Players)
+            {
+                @Html.Partial("PlayersList", clubTemp.Players)
+            }
+
+            <br>
+                <a asp-action="ManagePlayersPage" class="btn btn-sm btn-warning" asp-route-clubID="@clubTemp.ClubID">Add a Player</a>
+            <br>
+            <hr>
+        }
+    </div>
+</div>
+

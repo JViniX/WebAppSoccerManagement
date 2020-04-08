@@ -1,0 +1,49 @@
+﻿@model Tournament
+
+@{
+    ViewData["Title"] = "TournamentDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Tournament Details Page</h1>
+<table>
+    <tr><th align="left"><b>Tournament ID:</b></th><td>@Model.TournamentID</td></tr>
+    <tr><th align="left"><b>Name:</b></th><td>@Model.Name</td></tr>
+    <tr><th align="left"><b>A Number of Count:</b></th><td>@Model.ClubCount</td></tr>
+    <tr><th align="left"><b>Duration:</b></th><td>@Model.From.ToString("yyyy-MM-dd") ~ @Model.To.ToString("yyyy-MM-dd")</td></tr>
+    @if (ViewBag.winnerID != null)
+    {
+        <tr style="color:red;"><th align="left"><b>Champion: </b></th><td>Club @ViewBag.winnerID / @ViewBag.winnerName</td></tr>
+    }
+</table>
+
+<br />
+<hr>
+@if (Model.Matches.Count() > 0)
+{
+    <h2>Matches</h2>
+    @Html.Partial("MatchesList", Model.Matches)
+
+}
+
+@if (User.IsInRole("Admins"))
+{
+    @if (ViewBag.winnerID == null)
+    {
+        <br>
+        <a asp-action="CreateMatches" id="btn_middle" class="btn btn-sm btn-warning" asp-route-tournamentID="@Model.TournamentID">
+            @if (Model.Matches.Count() > 0)
+            {
+                @:Create Next Round
+            }
+            else
+            {
+                @:Create Matches
+            }
+        </a>
+
+
+    }
+}
+
+<a asp-action="Index" id="btn_middle" class="btn btn-sm btn-warning">Back</a>

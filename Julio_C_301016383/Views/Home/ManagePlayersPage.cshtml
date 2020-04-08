@@ -1,0 +1,54 @@
+﻿@model Player
+@{
+    ViewData["Title"] = "ManagePlayersPage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Manage Players Page</h1>
+
+
+<div class="panel panel-success">
+    <div class="panel-heading text-center">
+        <p>Insert all data and press Save.</p>
+    </div>
+    <div class="forms">
+        <form asp-action="ManagePlayersPage" method="post">
+            <div asp-validation-summary="All"></div>
+            <input type="hidden" asp-for="PlayerID" />
+            <table>
+                <tr>
+                    <td><label asp-for="FirstName">First Name:</label></td>
+                    <td><input class="form-control" asp-for="FirstName" /></td>
+                </tr>
+                <tr>
+                    <td><label asp-for="LastName">Last Name:</label></td>
+                    <td><input class="form-control" asp-for="LastName" /></td>
+                </tr>
+                <tr>
+                    <td><label asp-for="Age">Age:</label></td>
+                    <td><input class="form-control" asp-for="Age" /></td>
+                </tr>
+                <tr>
+                    <td><label asp-for="ClubID">Club:</label></td>                    
+                    <td>
+                        <select asp-for="ClubID" class="form-control"
+                                asp-items="@(new SelectList(@ViewBag.ListOfClubs,"ClubID", "Name"))"></select>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td>
+                        <button class="btn btn-primary" type="submit">
+                            Save
+                        </button>
+
+                        <button class="btn" asp-action="Index">
+                            Cancel
+                        </button>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</div>

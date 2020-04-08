@@ -1,0 +1,55 @@
+﻿@model Goal
+
+@{
+    ViewData["Title"] = "AddGoal";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Add Goal (Match ID: @Model.MatchID)</h1>
+<div class="panel panel-success">
+    <div class="forms">
+        <form asp-action="AddGoal" method="post">
+            <div asp-validation-summary="All"></div>
+            <input hidden asp-for="MatchID" value="@Model.MatchID" />
+            <table>
+                <tr>
+                    <td><label asp-for="ClubID">Club</label></td>
+                    <td>
+                        <input asp-for="ClubID" type="radio" value="@ViewBag.ClubID1">@ViewBag.ClubID1 / @ViewBag.ClubName1<br />
+                        <input asp-for="ClubID" type="radio" value="@ViewBag.ClubID2">@ViewBag.ClubID2 / @ViewBag.ClubName2
+                    </td>
+                </tr>
+                <tr>
+                    <td><label>Player</label></td>
+                    <td>
+                        <select name="PlayerID1" class="form-control"
+                                asp-items="@(new SelectList(@ViewBag.ListOfPlayers1,"PlayerID", "FirstName")) ">
+                            <option disabled selected>--- Club(@ViewBag.ClubID1) Player List ---</option>
+                        </select>
+                        <select name="PlayerID2" class="form-control"
+                                asp-items="@(new SelectList(@ViewBag.ListOfPlayers2,"PlayerID", "FirstName"))">
+                            <option disabled selected>--- Club(@ViewBag.ClubID2) Player List ---</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td><label asp-for="GoalTime">Goal Time</label></td>
+                    <td><input class="form-control" asp-for="GoalTime" /></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <button class="btn btn-primary" type="submit">
+                            Save
+                        </button>
+                        <a class="btn" asp-action="TournamentDetails" asp-route-tournamentID="@ViewBag.TournamentID">
+                            Cancel
+                        </a>
+                    </td>
+                </tr>
+            </table>
+
+        </form>
+    </div>
+</div>
+
