@@ -12545,11 +12545,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julio\\OneDrive\\College\\3rd Semester\\Web Application\\Julio_C_301016383\\Julio_C_301016383\\Julio_C_301016383.csproj",
+      "projectUniqueName": "C:\\GitHub\\WebAppSoccerManagement\\Julio_C_301016383\\Julio_C_301016383.csproj",
       "projectName": "Julio_C_301016383",
-      "projectPath": "C:\\Users\\julio\\OneDrive\\College\\3rd Semester\\Web Application\\Julio_C_301016383\\Julio_C_301016383\\Julio_C_301016383.csproj",
+      "projectPath": "C:\\GitHub\\WebAppSoccerManagement\\Julio_C_301016383\\Julio_C_301016383.csproj",
       "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julio\\OneDrive\\College\\3rd Semester\\Web Application\\Julio_C_301016383\\Julio_C_301016383\\obj\\",
+      "outputPath": "C:\\GitHub\\WebAppSoccerManagement\\Julio_C_301016383\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
