@@ -164,7 +164,7 @@ using Julio_C_301016383.Infrastructure;
             WriteLiteral("</td>\r\n                    <td class=\"text-center\">\r\n                        ");
             EndContext();
             BeginContext(969, 117, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e2a926fbc56e40fa891caf29e706eb96", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f6880d0053c44483b9961552c27ee95a", async() => {
                 BeginContext(1075, 7, true);
                 WriteLiteral("Details");
                 EndContext();
@@ -235,7 +235,7 @@ WriteAttributeValue("", 1160, t.TournamentID, 1160, 15, false);
             WriteLiteral("    ");
             EndContext();
             BeginContext(1321, 95, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6f85568a652f4bfda180c08ae720b729", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "308be32b43c04ee48c687328771f9287", async() => {
                 BeginContext(1398, 14, true);
                 WriteLiteral("Add Tournament");
                 EndContext();

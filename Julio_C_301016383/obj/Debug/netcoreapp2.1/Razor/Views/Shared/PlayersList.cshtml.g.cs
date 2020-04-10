@@ -133,12 +133,12 @@ using Julio_C_301016383.Infrastructure;
             WriteLiteral("</td>\r\n                <td class=\"text-center\">\r\n                    ");
             EndContext();
             BeginContext(729, 485, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8e88cc9212d043c88d7ebe9a47f615be", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "35d0c05bdc0844dfb3e84995143cee6e", async() => {
                 BeginContext(775, 26, true);
                 WriteLiteral("\r\n                        ");
                 EndContext();
                 BeginContext(801, 197, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eaaf895a3b774d15a16628f74e3d5338", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "19ef8f9165b9440a806f4f01cacbee9e", async() => {
                     BeginContext(990, 4, true);
                     WriteLiteral("Edit");
                     EndContext();

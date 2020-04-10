@@ -77,12 +77,12 @@ using Julio_C_301016383.Infrastructure;
             WriteLiteral("    ");
             EndContext();
             BeginContext(69, 221, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "21268e07d3a74c589e505ff97b1b1d08", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4c0b3eedca4e48ff87b6ba6b5f661a8c", async() => {
                 BeginContext(127, 10, true);
                 WriteLiteral("\r\n        ");
                 EndContext();
                 BeginContext(137, 143, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "4b91957c858b4af599fc0984009c046c", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "00b2a36de14e4250a4fc0ebe5d8765b2", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

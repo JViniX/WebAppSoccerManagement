@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Julio_C_301016383.Migrations.AppIdentityDb
 {
-    public partial class Initial : Migration
+    public partial class Initials : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

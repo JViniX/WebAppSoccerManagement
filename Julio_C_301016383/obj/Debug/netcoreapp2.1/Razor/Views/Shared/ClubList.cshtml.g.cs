@@ -96,7 +96,7 @@ using Julio_C_301016383.Infrastructure;
             WriteLiteral("                <tr>\r\n                    <td>");
             EndContext();
             BeginContext(503, 119, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5224e3d9c4114362a770d30058b36ecf", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a201d20b04e84468a67b63f634ab97e5", async() => {
                 BeginContext(603, 15, false);
 #line 19 "C:\GitHub\WebAppSoccerManagement\Julio_C_301016383\Views\Shared\ClubList.cshtml"
                                                                                                                       Write(clubTemp.ClubID);
@@ -156,12 +156,12 @@ using Julio_C_301016383.Infrastructure;
             WriteLiteral("</td>  \r\n                    <td class=\"text-center\">\r\n                        ");
             EndContext();
             BeginContext(794, 427, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "978c823a1c584ad5a78e92a322f1f2f8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b00ecca0fa87449693cd22fd9258e5db", async() => {
                 BeginContext(838, 30, true);
                 WriteLiteral("\r\n                            ");
                 EndContext();
                 BeginContext(868, 127, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6fe5c5a8f3ed454d9b91a8cc52023b0a", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fe249b032e6c4e178b72ad9ebfc20bf4", async() => {
                     BeginContext(987, 4, true);
                     WriteLiteral("Edit");
                     EndContext();

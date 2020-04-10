@@ -144,7 +144,7 @@ using Julio_C_301016383.Infrastructure;
             WriteLiteral("            <br>\r\n                ");
             EndContext();
             BeginContext(807, 117, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1f599e0d44d84c029a8e8378adf55695", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "71340f397d9e4070979e141bc5960c7e", async() => {
                 BeginContext(908, 12, true);
                 WriteLiteral("Add a Player");
                 EndContext();

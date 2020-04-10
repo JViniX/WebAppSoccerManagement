@@ -206,7 +206,7 @@ Write(Html.Partial("MatchesList", Model.Matches));
             WriteLiteral("        <br>\r\n        ");
             EndContext();
             BeginContext(958, 330, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bf04ee2f924646e8bd5aa462a97be367", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c4d8f30409a84cf2ad097d0a61ec866c", async() => {
                 BeginContext(1080, 2, true);
                 WriteLiteral("\r\n");
                 EndContext();
@@ -292,7 +292,7 @@ Write(Html.Partial("MatchesList", Model.Matches));
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(1306, 77, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5936b65ac9f4436abe00e811be0d2f51", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4f6a7a1568324dd79a8e27ce5da01423", async() => {
                 BeginContext(1375, 4, true);
                 WriteLiteral("Back");
                 EndContext();

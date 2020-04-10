@@ -165,7 +165,7 @@ using Julio_C_301016383.Infrastructure;
             WriteLiteral("\r\n                    </td>\r\n                    <td class=\"text-center\">\r\n                        ");
             EndContext();
             BeginContext(1154, 143, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "86c7037e18fe480a8fb7e51ead7447d1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6dd034ca8d7e4d609e232fde130b2b41", async() => {
                 BeginContext(1287, 6, true);
                 WriteLiteral("Remove");
                 EndContext();
@@ -257,7 +257,7 @@ WriteAttributeValue("", 1849, ViewBag.returnUrl, 1849, 18, false);
             WriteLiteral("                ");
             EndContext();
             BeginContext(1981, 84, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c63875b30c3047f8b1d41d519edebae6", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "78c7b01dde05435385f7be0f00594c8f", async() => {
                 BeginContext(2053, 8, true);
                 WriteLiteral("Checkout");
                 EndContext();

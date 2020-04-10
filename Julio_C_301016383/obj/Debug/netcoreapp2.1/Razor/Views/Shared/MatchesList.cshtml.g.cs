@@ -300,7 +300,7 @@ using Julio_C_301016383.Infrastructure;
             WriteLiteral("                    <td>\r\n                        ");
             EndContext();
             BeginContext(1982, 130, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0bf5e3bfd22b4e7fa4a08a61aed3d54d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3d89d7f44b0240d38b8b41550762728b", async() => {
                 BeginContext(2096, 12, true);
                 WriteLiteral("Record Score");
                 EndContext();
@@ -336,7 +336,7 @@ using Julio_C_301016383.Infrastructure;
             WriteLiteral("\r\n                        ");
             EndContext();
             BeginContext(2138, 168, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "84e80c77dad24e748777767545d5a794", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a99e44f4fdb940dbb2351e07f017f761", async() => {
                 BeginContext(2288, 14, true);
                 WriteLiteral("End This Match");
                 EndContext();
@@ -398,7 +398,7 @@ using Julio_C_301016383.Infrastructure;
             WriteLiteral("                <td class=\"text-center\">\r\n                    ");
             EndContext();
             BeginContext(2472, 201, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "862a5860c9044c5fa73025da05e84520", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fb28ae9fae14463082d3d4e9bad1ebc1", async() => {
                 BeginContext(2657, 12, true);
                 WriteLiteral("Buy a Ticket");
                 EndContext();
